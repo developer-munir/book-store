@@ -12,35 +12,35 @@ const Services = () => {
             <div className='flex w-72 border  p-10'>
                 <DirectionsCarIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5'>
-                    <p className='text-xl font-bold'>Free Delivery</p>
+                    <p className='text-lg font-bold'>Free Delivery</p>
                     <p>from $50</p>
                 </div>
             </div>
             <div className='flex w-72 border  p-10'>
                 <PeopleAltIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5'>
-                    <p className='text-xl font-bold'>99% Customer</p>
+                    <p className='text-lg font-bold'>99%Customer</p>
                     <p>feedbacks</p>
                 </div>
             </div>
             <div className='flex w-72 border  p-10'>
                 <UTurnRightIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5 '>
-                    <p className='text-xl font-bold'>10 Days</p>
+                    <p className='text-lg font-bold'>10 Days</p>
                     <p>for free return</p>
                 </div>
             </div>
             <div className='flex w-72 border  p-10'>
                 <PaidIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5'>
-                    <p className='text-xl font-bold'>Payment</p>
+                    <p className='text-lg font-bold'>Payment</p>
                     <p>secure system</p>
                 </div>
             </div>
             <div className='flex w-72 border p-10'>
                 <HeadsetMicIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5 '>
-                    <p className='text-xl font-bold'>24/7</p>
+                    <p className='text-lg font-bold'>24/7</p>
                     <p>online supports</p>
                 </div>
             </div>
