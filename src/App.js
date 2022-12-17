@@ -1,12 +1,10 @@
 import "./App.css";
-import { Button } from "@mui/material";
+import Home from "./component/Page/Home/Home";
 
 function App() {
   return (
-    <div className="App">
-      <Button variant="text">Text</Button>
-      <Button variant="contained">Contained</Button>
-      <Button variant="outlined">Outlined</Button>
+    <div className = "max-w-[1440px] mx-auto">
+      <Home></Home>
     </div>
   );
 }
