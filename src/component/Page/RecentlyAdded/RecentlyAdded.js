@@ -23,7 +23,7 @@ const RecentlyAdded = () => {
                 </div>
                 
             </div>
-            <Box sx={{ display: 'flex',border:'1px solid gary'}}>
+            <Box sx={{ display: 'flex',border:'1px solid gary', gap:'8px'}}>
                 <div style={{ width: '250px', border: '1px solid lightgray', padding: '20px' }}>
                     <img src="https://m.media-amazon.com/images/I/81XSeWmiPEL._AC._SR360,460.jpg" alt="" style={{ with: '200px', height: '200px' }} />
                     <Typography variant="subtitle1" gutterBottom>

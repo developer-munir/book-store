@@ -8,7 +8,7 @@ import HeadsetMicIcon from '@mui/icons-material/HeadsetMic';
 
 const Services = () => {
     return (
-        <div className='flex mt-10 align-center'>
+        <div className='flex mt-10 align-center gap-x-2'>
             <div className='flex w-72 border  p-10'>
                 <DirectionsCarIcon style={{ width: '80px', height: '80px', color: 'red' }} />
                 <div className='mt-5'>
